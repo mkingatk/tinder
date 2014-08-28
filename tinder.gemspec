@@ -10,7 +10,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'json', '~> 1.8.0'
   gem.add_dependency 'mime-types'
   gem.add_dependency 'multi_json', '~> 1.7'
-  gem.add_dependency 'twitter-stream', :git => 'https://github.com/mremond/twitter-stream', :ref => 'b46cfd8eadbf9ab60781a9d4e766b41601564be0'
 
   gem.add_development_dependency 'fakeweb'
   gem.add_development_dependency 'rake'
